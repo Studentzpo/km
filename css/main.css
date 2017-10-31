@@ -1,6 +1,31 @@
-@charset "utf-8";
-/* CSS Document */
-body{ 
-background-color: red;
-}
+	.blockContainer{
+		width:400px;
+		margin:auto;
+	}
+	.left{
+		float:left;
+		background:#FFA07A;
+		width:45%;
+		height:120px;
+		border:20px;
+		margin:10px;
+	}
+	.Center{
+		float:left;
+		background:#EE82EE;
+		width:45%;
+		height:120px;
+		border:20px;
+		margin:10px;
+	}
+	.right{
+		float:left;
+		background:#DB7093;
+		width:45%;
+		height:120px;
+		border:20px;
+	}
+		
+		
+
 

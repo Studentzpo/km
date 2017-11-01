@@ -2,26 +2,13 @@
 		width:400px;
 		margin:auto;
 	}
-	.left{
-		float:left;
-		background:#FFA07A;
-		height:120px;
-		border:20px;
-		margin:10px;
-	}
-	.Center{
-		float:left;
-		background:#EE82EE;
-		height:120px;
-		border:20px;
-		margin:10px;
-	}
-	.right{
-		float:right;
-		background:#DB7093;
-		height:120px;
-		border:20px;
-		margin:10px;
+	
+	.col-md-4 news{
+float:left;
+border:1px solid black;
+background:#EE82EE; 
+height:250px; 
+width:220px;
 	}
 		
 		

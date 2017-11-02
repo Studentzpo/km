@@ -1,14 +1,21 @@
 	.blockContainer{
 		width:400px;
-		margin:auto;
 	}
-	
-	.col-md-4 news{
-float:left;
-border:1px solid black;
-background:#EE82EE; 
-height:250px; 
-width:220px;
+	.col-md-2 test{
+	float: left;
+	border:1px; 
+	solid: #3399CC; 
+	background:#3399CC; 
+	height:40px; 
+	width:200px
+	}
+	.col-md-2 mm{
+	float: left; 
+	border:1px 
+	solid #00CC99; 
+	background:#00CC99; 
+	height:40px; 
+	width:150px;
 	}
 		
 		

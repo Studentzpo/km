@@ -1,19 +1,17 @@
 	.blockContainer{
 		width:400px;
 	}
-	.col-md-2 test{
+	.col-md-2 test{/* มีความหมายอะไร */
 	float: left;
 	border:1px; 
-	solid: #3399CC; 
-	background:#3399CC; 
+
 	height:40px; 
 	width:200px
 	}
-	.col-md-2 mm{
+	.col-md-2 mm{/* มีความหมายอะไร */
 	float: left; 
-	border:1px 
-	solid #00CC99; 
-	background:#00CC99; 
+	border:1px;
+
 	height:40px; 
 	width:150px;
 	}

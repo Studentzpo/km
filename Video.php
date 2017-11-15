@@ -12,7 +12,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-            <img src="images/km/bannervideo.jpg" width="100%"><!----แบนเนอร์--->
+            <img src="images/km/banner video.jpg" width="100%"><!----แบนเนอร์--->
             </div>
         </div>
        	<div class="row">
@@ -106,8 +106,9 @@
                         	<h3>Office the Series ตอนที่ 10 การใช้ประโยชน์เทคโนโลยีสารสนเทศในองค์กร</h3>
      			</div>
                <div class="col-md-4" style="float:left;">
-          </div>
-       </div>
+          	   </div>
+       		</div>
+		</div>
    </div><!--- <div container---->
 </body>
 </html>
